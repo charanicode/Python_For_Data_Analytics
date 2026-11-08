@@ -23,6 +23,7 @@ My goal is to understand how Python can be used to clean, manipulate, analyze, a
 ### 📅 Day 1 – Introduction to Python for Data Analytics
 
 **Topics Covered**
+
 - Introduction to Python programming language.
 - Understanding the importance of Python in Data Analytics.
 - Exploring the applications of Python in data analysis.
@@ -39,7 +40,7 @@ My goal is to understand how Python can be used to clean, manipulate, analyze, a
 
 **Popular Python Libraries for Data Analytics**
 
-| Library | Purpose |
+| **Library** | **Purpose** |
 |---|---|
 | NumPy | Numerical computations and array operations |
 | Pandas | Data manipulation and analysis |
@@ -47,9 +48,30 @@ My goal is to understand how Python can be used to clean, manipulate, analyze, a
 
 **Learning Outcome:** Understood the importance of Python in Data Analytics and explored its applications in data cleaning, manipulation, analysis, visualization, and automation.
 
+---
+
+### 📅 Day 2 – Python Environment Setup
+
+**Topics Covered**
+
+- Installed Python on my system.
+- Installed Visual Studio Code (VS Code).
+- Set up the Python development environment.
+- Explored the basic tools required for writing and executing Python programs.
+
+**Tools Installed**
+
+| **Tool** | **Purpose** |
+|---|---|
+| Python | Programming language used for development. |
+| Visual Studio Code | Code editor for writing and executing Python programs. |
+
+**Learning Outcome:** Successfully installed Python and configured VS Code to create a development environment for writing, executing, and debugging Python programs.
+
 ## 🛠️ Tools and Technologies
 
 - **Python:** Programming language for data analysis.
+- **Visual Studio Code:** Code editor for Python development.
 - **NumPy:** Numerical computations.
 - **Pandas:** Data manipulation and analysis.
 - **Matplotlib:** Data visualization.
